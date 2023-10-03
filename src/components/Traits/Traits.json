@@ -1,0 +1,261 @@
+{
+  "backgrounds": [
+    {
+      "id": "bg1",
+      "name": "Paper",
+      "image": "../../Traits/Background/Paper.webp"
+    }
+  ],
+  "backs": [
+    {
+      "id": "back1",
+      "name": "Chainsaw",
+      "image": "../../Traits/Back/Chainsaw.webp"
+    },
+    {
+      "id": "back2",
+      "name": "Money FTW",
+      "image": "../../Traits/Back/Money FTW.webp"
+    },
+    {
+      "id": "back3",
+      "name": "Surfboard",
+      "image": "../../Traits/Back/Surfboard.webp"
+    },
+    {
+      "id": "back4",
+      "name": "Swords",
+      "image": "../../Traits/Back/Swords.webp"
+    },
+    {
+      "id": "back5",
+      "name": "Tree",
+      "image": "../../Traits/Back/Tree.webp"
+    }
+  ],
+  "bodys": [
+    {
+      "id": "body1",
+      "name": "Aquatic",
+      "image": "../../Traits/Body/Aquatic.webp"
+    },
+    {
+      "id": "body2",
+      "name": "Arctic",
+      "image": "../../Traits/Body/Arctic.webp"
+    },
+    {
+      "id": "body3",
+      "name": "Desert",
+      "image": "../../Traits/Body/Desert.webp"
+    },
+    {
+      "id": "body4",
+      "name": "Jungle",
+      "image": "../../Traits/Body/Jungle.webp"
+    },
+    {
+      "id": "body5",
+      "name": "Mud",
+      "image": "../../Traits/Body/Mud.webp"
+    },
+    {
+      "id": "body6",
+      "name": "Normal",
+      "image": "../../Traits/Body/Normal.webp"
+    },
+    {
+      "id": "body7",
+      "name": "Solana",
+      "image": "../../Traits/Body/Solana.webp"
+    },
+    {
+      "id": "body8",
+      "name": "Volcanic",
+      "image": "../../Traits/Body/Volcanic.webp"
+    }
+  ],
+  "eyes": [
+    {
+      "id": "eyes1",
+      "name": "Bloody eyes",
+      "image": "../../Traits/Eyes/Bloody eyes.webp"
+    },
+    {
+      "id": "eyes2",
+      "name": "Doubtful eyes",
+      "image": "../../Traits/Eyes/Doubtful eyes.webp"
+    },
+    {
+      "id": "eyes3",
+      "name": "Fearful eyes",
+      "image": "../../Traits/Eyes/Fearful eyes.webp"
+    },
+    {
+      "id": "eyes4",
+      "name": "Tired eyes",
+      "image": "../../Traits/Eyes/Tired eyes.webp"
+    },
+    {
+      "id": "eyes5",
+      "name": "Infinite eyes",
+      "image": "../../Traits/Eyes/Infinite eyes.webp"
+    },
+    {
+      "id": "eyes6",
+      "name": "Fuck yeah glasses",
+      "image": "../../Traits/Eyes/Fuck yeah glasses.webp"
+    },
+    {
+      "id": "eyes7",
+      "name": "Futuristic glasses",
+      "image": "../../Traits/Eyes/Futuristic glasses.webp"
+    },
+    {
+      "id": "eyes8",
+      "name": "Groovy glasses",
+      "image": "../../Traits/Eyes/Groovy glasses.webp"
+    },
+    {
+      "id": "eyes9",
+      "name": "Macabre glasses",
+      "image": "../../Traits/Eyes/Macabre glasses.webp"
+    },
+    {
+      "id": "eyes10",
+      "name": "One eyed glasses",
+      "image": "../../Traits/Eyes/One eyed glasses.webp"
+    }
+  ],
+  "suits": [
+    {
+      "id": "suits1",
+      "name": "Biker jacket",
+      "image": "../../Traits/Suits/Biker jacket.webp"
+    },
+    {
+      "id": "suits2",
+      "name": "Clown suit",
+      "image": "../../Traits/Suits/Clown suit.webp"
+    },
+    {
+      "id": "suits3",
+      "name": "Fuzzy sweater",
+      "image": "../../Traits/Suits/Fuzzy sweater.webp"
+    },
+    {
+      "id": "suits4",
+      "name": "Jacket",
+      "image": "../../Traits/Suits/Jacket.webp"
+    },
+    {
+      "id": "suits5",
+      "name": "Not drugs",
+      "image": "../../Traits/Suits/Not drugs.webp"
+    },
+    {
+      "id": "suits6",
+      "name": "Overall",
+      "image": "../../Traits/Suits/Overall.webp"
+    },
+    {
+      "id": "suits7",
+      "name": "Suit",
+      "image": "../../Traits/Suits/Suit.webp"
+    },
+    {
+      "id": "suits8",
+      "name": "Sweater",
+      "image": "../../Traits/Suits/Sweater.webp"
+    },
+    {
+      "id": "suits9",
+      "name": "T-shirt",
+      "image": "../../Traits/Suits/T-shirt.webp"
+    },
+    {
+      "id": "suits10",
+      "name": "Vest",
+      "image": "../../Traits/Suits/Vest.webp"
+    },
+    {
+      "id": "suits11",
+      "name": "Nothing",
+      "image": "../../Traits/Suits/Nothing.webp"
+    }
+  ],
+  "mouths": [
+    {
+      "id": "mouth1",
+      "name": "Beak",
+      "image": "../../Traits/Mouth/Beak.webp"
+    },
+    {
+      "id": "mouth2",
+      "name": "Furious beak",
+      "image": "../../Traits/Mouth/Furious beak.webp"
+    },
+    {
+      "id": "mouth3",
+      "name": "Hungry beak",
+      "image": "../../Traits/Mouth/Hungry beak.webp"
+    },
+    {
+      "id": "mouth4",
+      "name": "Macabre beak",
+      "image": "../../Traits/Mouth/Macabre beak.webp"
+    },
+    {
+      "id": "mouth5",
+      "name": "Nibbling beak",
+      "image": "../../Traits/Mouth/Nibbling beak.webp"
+    },
+    {
+      "id": "mouth6",
+      "name": "Wise beak",
+      "image": "../../Traits/Mouth/Wise beak.webp"
+    }
+  ],
+  "hats": [
+    {
+      "id": "hat1",
+      "name": "Beanie",
+      "image": "../../Traits/Hats/Beanie.webp"
+    },
+    {
+      "id": "hat2",
+      "name": "Cap",
+      "image": "../../Traits/Hats/Cap.webp"
+    },
+    {
+      "id": "hat3",
+      "name": "Cowboy hat",
+      "image": "../../Traits/Hats/Cowboy hat.webp"
+    },
+    {
+      "id": "hat4",
+      "name": "Miner's hat",
+      "image": "../../Traits/Hats/Miner's hat.webp"
+    },
+    {
+      "id": "hat5",
+      "name": "Summer hat",
+      "image": "../../Traits/Hats/Summer hat.webp"
+    },
+    {
+      "id": "hat6",
+      "name": "Traveler's helmet",
+      "image": "../../Traits/Hats/Traveler's helmet.webp"
+    },
+    {
+      "id": "hat7",
+      "name": "Winter hat",
+      "image": "../../Traits/Hats/Winter hat.webp"
+    },
+    {
+      "id": "hat8",
+      "name": "Nothing",
+      "image": "../../Traits/Hats/Nothing.webp"
+    }
+  ]
+}
