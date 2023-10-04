@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/static/css/main.63287574.css",
+    "main.css": "/static/css/main.6dc6cafa.css",
     "main.js": "/static/js/main.afe6418b.js",
     "static/media/background.png": "/static/media/background.f59b7802948421469ee4.png",
     "static/media/Cap.png": "/static/media/Cap.2670bb9db8208e2eb8b5.png",
@@ -11,11 +11,11 @@
     "static/media/FunSchool.otf": "/static/media/FunSchool.a1915eaaec54017a83a5.otf",
     "static/media/backbtn.png": "/static/media/backbtn.b897c55e5f6e2d6a85fc.png",
     "index.html": "/index.html",
-    "main.63287574.css.map": "/static/css/main.63287574.css.map",
+    "main.6dc6cafa.css.map": "/static/css/main.6dc6cafa.css.map",
     "main.afe6418b.js.map": "/static/js/main.afe6418b.js.map"
   },
   "entrypoints": [
-    "static/css/main.63287574.css",
+    "static/css/main.6dc6cafa.css",
     "static/js/main.afe6418b.js"
   ]
 }
