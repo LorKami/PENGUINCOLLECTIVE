@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/static/css/main.551613c1.css",
-    "main.js": "/static/js/main.20968e00.js",
+    "main.js": "/static/js/main.3a23bdeb.js",
     "static/media/background.png": "/static/media/background.f59b7802948421469ee4.png",
     "static/media/Cap.png": "/static/media/Cap.2670bb9db8208e2eb8b5.png",
     "static/media/Fuck yeah glasses.png": "/static/media/Fuck yeah glasses.6074d2575934413506b8.png",
@@ -12,10 +12,10 @@
     "static/media/backbtn.png": "/static/media/backbtn.b897c55e5f6e2d6a85fc.png",
     "index.html": "/index.html",
     "main.551613c1.css.map": "/static/css/main.551613c1.css.map",
-    "main.20968e00.js.map": "/static/js/main.20968e00.js.map"
+    "main.3a23bdeb.js.map": "/static/js/main.3a23bdeb.js.map"
   },
   "entrypoints": [
     "static/css/main.551613c1.css",
-    "static/js/main.20968e00.js"
+    "static/js/main.3a23bdeb.js"
   ]
 }
